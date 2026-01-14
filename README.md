@@ -68,7 +68,7 @@ The goal is **shortening the distance** between:
 ## Credits
 
 - Base ImGui integration inspired by [adamhlt/ImGui-Standalone](https://github.com/adamhlt/ImGui-Standalone) – thank you for providing a minimal ImGui foundation!  
-
+- Graphs made with [epezent/implot](https://github.com/epezent/implot) - thank you for providing necessary libraries!
 ---
 
 ## License
