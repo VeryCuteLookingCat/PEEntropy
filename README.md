@@ -14,11 +14,15 @@ Built using **ImGui** with the **DirectX 11 backend**.
 - **Per-block entropy calculation** – adjustable block sizes for fine, balanced, smooth, or coarse analysis.  
 - **All-sections mode** – visualize entropy for the entire binary in a single graph.  
 - **Interactive graphs** – hover for block details (RVA, VA, size, entropy).  
-- **Dark/Light theme toggle** and optional console output for logging.  
+- **Dark/Light theme toggle** and optional console output for logging.
+
+## Visual Studio Runtime Required
+- If the program fails to launch, install the Microsoft Visual C++ Redistributable (x64):
+https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist
 
 ---
 
-# Screenshots
+## Screenshots
 ![Menu](https://raw.githubusercontent.com/VeryCuteLookingCat/PEEntropy/refs/heads/main/Images/Menu.png)
 
 
