@@ -61,7 +61,7 @@ The goal is **shortening the distance** between:
 
 - **Block size:** Smaller blocks = finer resolution; larger blocks = smoother graph.  
 - **All sections:** Select “All Sections” at the top of the section list to visualize total entropy.  
-- **Console output:** Enable the console via the toolbar to see scan progress and detailed information.  
+- **Console output:** Enable the console via the toolbar for debugging.
 
 ---
 
