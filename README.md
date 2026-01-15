@@ -1,6 +1,6 @@
 # PE Entropy
 
-![License](https://img.shields.io/badge/license-MIT-green)
+![License](https://img.shields.io/badge/license-GPLv3-green)
 
 A **PE file entropy visualization tool** for Windows, designed for malware analysts, reverse engineers, and anyone who wants an intuitive look at entropy patterns in binaries. 
 
